@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cálculo Área Figuras</string>
+    <string name="selecione_uma_figura">Selecione uma Figura</string>
+    <string name="circulo">Círculo</string>
+    <string name="triangulo">Triângulo</string>
+    <string name="action_settings">action_settings</string>
+    <string name="retangulo">Retângulo</string>
+    <string name="avancar">Avançar</string>
+    <string name="dados_do_circulo_cm">Dados do Círculo(cm)</string>
+    <string name="raio">Raio</string>
+    <string name="recomecar">Recomeçar</string>
+    <string name="dados_do_retangulo_cm">Dados do Retângulo(cm)</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="dados_do_triangulo_cm">Dados do Triângulo(cm)</string>
+</resources>
